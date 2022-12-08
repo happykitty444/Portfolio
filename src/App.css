@@ -1,4 +1,9 @@
 .App {
+  background: rgb(38,36,84);
+  background: linear-gradient(0deg, rgb(57, 56, 76) 0%, rgb(92, 92, 123) 35%, rgb(196, 207, 208) 100%);
+  background-size: 100% 100%;
+  background-position: center;
+  background-size: cover;
   text-align: center;
 }
 

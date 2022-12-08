@@ -1,0 +1,15 @@
+.Header {}
+
+.title {
+  font-weight: 200;
+  font-size: 1.5rem;
+}
+
+.text-header {
+  color:white;
+  padding-left: 3rem;
+}
+
+.logo{
+  padding-right: 2rem;
+}
