@@ -10,7 +10,7 @@ function SampleBox(props) {
       {/* image */}
 			<img className="project-img" src={props.project.image} alt={props.project.name}></img>
 			{/* link button */}
-			<button className="project-button"><a className="project-link" href="url">READ MORE</a></button>
+			<button className="project-button"><a className="project-link" href={props.project.link}>READ MORE</a></button>
     </div>
   );
 }
