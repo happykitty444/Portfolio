@@ -37,7 +37,7 @@ function MainItems() {
     "name": "Functionality",
     "description": "Once I have communiated to the user the intent of my product and the interactions it provides, I am now responsible for creating that interactivity. A project that is inviting but static will never have the same level of communication or reponsivity with a user as a project that adapts to their input and responds to their needs. As an excercise in mplementing this interaction, I created a website emulating a small drink shop in which a user can specify their dietary needs and pricing restrictions and have the site dynamically update to reflect their input.",
     "image": development,
-    "link": "url"
+    "link": "https://happykitty444.github.io/Development/"
   }
   
   return (
