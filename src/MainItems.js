@@ -42,16 +42,16 @@ function MainItems() {
   
   return (
     <div className="MainItems">
-      <h2 className="section-title">Interactive</h2>
+      {/* <h2 className="section-title">Interactive</h2> */}
       <SampleBox project={Interactive}></SampleBox>
 
-      <h2 className="section-title">Responsive</h2>
+      {/* <h2 className="section-title">Responsive</h2> */}
       <SampleBox project={Responsive}></SampleBox>
 
-      <h2 className="section-title">Iterative</h2>
+      {/* <h2 className="section-title">Iterative</h2> */}
       <SampleBox project={Iterative}></SampleBox>
 
-      <h2 className="section-title">Developed</h2>
+      {/* <h2 className="section-title">Developed</h2> */}
       <SampleBox project={Development}></SampleBox>
 
     </div>

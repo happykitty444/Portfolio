@@ -1,4 +1,6 @@
-.Header {}
+.Header {
+  position: relative;
+}
 
 .title {
   font-weight: 200;
@@ -8,6 +10,8 @@
 .text-header {
   color:white;
   padding-left: 3rem;
+  position:relative;
+  right:0;
 }
 
 .logo{

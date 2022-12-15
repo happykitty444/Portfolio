@@ -5,7 +5,7 @@ import AboutMe from './AboutMe';
 
 function App() {
   return (
-    <div className="App" style={{width:"100%", height:"400vh"}}>
+    <div className="App">
       <Header/>
       <AboutMe/>
       <MainItems/>

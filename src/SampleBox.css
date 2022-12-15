@@ -1,12 +1,13 @@
-
 .project-title{
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-weight: 100;
 }
 
-.project-img{
+/* .project-img{
   border-radius: 5px;
-}
+  min-height: 20rem;
+  min-width: 30rem;
+} */
 
 .project-description{
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -25,6 +26,9 @@
   display: inline-block;
   font-size: 16px;
   clear:both;
+  position:absolute;
+  bottom: 2rem;
+  right: 2rem;
 }
 
 .project-link{
@@ -35,17 +39,15 @@
 }
 
 .info-box{
-  color:rgb(0, 0, 0);
-  background: white;
-  /* background: linear-gradient(270deg, rgb(138, 146, 170) 0%, rgb(195, 202, 203) 30%, rgb(227, 235, 236) 100%); */
-  transition: 0.3s;
-  border-radius: 10px;
-  padding: 0.5rem 2rem;
-  height: 20rem;
-  width: 80rem;
+  margin: 2rem;
+  padding: 2rem;
+  transition: 0.5s;
+  border-style: dotted;
+  border-radius: 2rem;
+  border-color: aliceblue;
+  position: relative;
 }
 
-/* On mouse-over*/
 .info-box:hover {
-  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  background-color: rgb(15, 6, 42);
 }

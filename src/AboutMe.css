@@ -6,3 +6,7 @@
   min-width: 30rem;
   min-height:40rem;
 }
+
+h1 {
+  padding: 3rem;
+}
