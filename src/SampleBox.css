@@ -3,11 +3,9 @@
   font-weight: 100;
 }
 
-/* .project-img{
+.project-img{
   border-radius: 5px;
-  min-height: 20rem;
-  min-width: 30rem;
-} */
+}
 
 .project-description{
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;

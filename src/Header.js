@@ -10,11 +10,6 @@ function Header() {
 		<AppBar position="static" style={{backgroundColor:'rgb(0,0,0)'}}>
 			<Toolbar className="toolbar">
 				<p className="title">SDC Design Portfolio</p>
-
-				<p className="text-header">Home</p>
-				<p className="text-header">About Me</p>
-				<p className="text-header">Projects</p>
-
 			</Toolbar>
 		</AppBar>
 	);
