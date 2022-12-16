@@ -9,7 +9,7 @@ function Header() {
 	return (
 		<AppBar position="static" style={{backgroundColor:'rgb(0,0,0)'}}>
 			<Toolbar className="toolbar">
-				<p className="title">SDC Design Portfolio</p>
+				<p className="title">Website Design Portfolio</p>
 			</Toolbar>
 		</AppBar>
 	);
